@@ -1,0 +1,9 @@
+src/ASPNETCoreAngularWebpackStarter/node_modules/
+src/ASPNETCoreAngularWebpackStarter/obj
+src/ASPNETCoreAngularWebpackStarter/typings
+src/ASPNETCoreAngularWebpackStarter/bin
+src/ASPNETCoreAngularWebpackStarter/node_modules
+.vs/
+npm-debug.log
+src/ASPNETCoreAngularWebpackStarter/wwwroot/
+src/ASPNETCoreAngularWebpackStarter/aot/
